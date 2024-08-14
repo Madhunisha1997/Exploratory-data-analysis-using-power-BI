@@ -94,7 +94,7 @@ OBJECTIVE
    
         c) Store Expansion
    
-           •	Expand the stores in United states and Australia to 2000 square meters
+           •	Expand the stores in United states and Australia with 2000 square meters
    
         d) Increase average order value
    
