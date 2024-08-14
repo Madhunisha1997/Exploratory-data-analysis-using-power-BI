@@ -5,7 +5,7 @@ OBJECTIVE
        1. To uncover insights into customer demographics, purchasing behaviours, product performance, store operations, and the impact of currency fluctuations on sales. 
        2. Highlight the ultimate goal of leveraging these insights to inform marketing strategies, inventory management, sales forecasting, product development, and store operations.
 
-1. DATA CLEANING 
+1.DATA CLEANING 
 
   a) Handling missing values
 
@@ -28,8 +28,7 @@ OBJECTIVE
             	c)  Calculated ‘Age’ column from birthday column
         Product dataset
             	d)  Converted Unit_Cost_USD and Unit_Price_USD to numeric
-    
-2. LOADING DATA
+2.LOADING DATA
 
        After completing data cleaning loaded the datssets into MY-SQL from jupyter notebook
    
