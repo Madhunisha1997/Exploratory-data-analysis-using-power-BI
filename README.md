@@ -32,7 +32,7 @@ OBJECTIVE
 
        After completing data cleaning loaded the datssets into MY-SQL from jupyter notebook
    
-3. CREATED INTERACTIVE DASHBOARDS USING POWER BI 
+3.CREATED INTERACTIVE DASHBOARDS USING POWER BI 
 
        Loaded the tables into POWER BI by connecting it with mysql database.
        Created different sql query to do different visualizations to gain insights from the tables
